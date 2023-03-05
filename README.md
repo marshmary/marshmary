@@ -10,7 +10,7 @@ The DevOps engineer who enjoy automating stuff:
 
 ## 🧾 Certifications:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9313fc7f-d47c-45a9-a564-a89a4001f5a3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<img src="img\aws-certified-cloud-practitioner.png">](https://www.credly.com/badges/9313fc7f-d47c-45a9-a564-a89a4001f5a3/public_url)
 
 ---
 
