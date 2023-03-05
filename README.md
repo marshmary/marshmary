@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phu Tran</h1>
 
-## 👨‍💻 About Me:
+<h2> 👨‍💻 About Me: </h2>
 The DevOps engineer who enjoy automating stuff:
 - I’m currently working in [PTN Global](https://www.ptnglobalcorp.com/) as **DevOps Engineer**
 
@@ -8,13 +8,13 @@ The DevOps engineer who enjoy automating stuff:
 
 ---
 
-## 🧾 Certifications:
+<h2> 🧾 Certifications: </h2>
 
 [<img src="img\aws-certified-cloud-practitioner.png">](https://www.credly.com/badges/9313fc7f-d47c-45a9-a564-a89a4001f5a3/public_url)
 
 ---
 
-## 🔥 My Stats:
+<h2> 🔥 My Stats: </h2>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marshmary&show_icons=true&hide=stars,issues" alt="marshmary" /></p>
 
