@@ -2,9 +2,10 @@
 
 <h2> 👨‍💻 About Me: </h2>
 The DevOps engineer who enjoy automating stuff:
+
 - I’m currently working in [PTN Global](https://www.ptnglobalcorp.com/) as **DevOps Engineer**
 
-- I also have experience building websites and web applications with popular framework as Dotnet, Javascript & TypeScript (React, Vue) and Python (FastAPI)
+- I also have experience building websites and web applications with popular frameworks as Dotnet, Javascript & TypeScript (React, Vue) and Python (FastAPI)
 
 ---
 
