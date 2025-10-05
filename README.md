@@ -119,6 +119,6 @@ A passionate **DevOps Engineer** at [PTN Global](https://www.ptnglobalcorp.com/)
 
 ### 💡 "Automate everything, monitor everything, improve everything"
 
-![Visitor Count](https://profile-counter.glitch.me/marshmary/count.svg)
+![](https://komarev.com/ghpvc/?username=marshmary&style=for-the-badge&color=70a5fd)
 
 </div>
