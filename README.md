@@ -90,11 +90,13 @@ A passionate **DevOps Engineer** at [PTN Global](https://www.ptnglobalcorp.com/)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshmary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats-phi-nine.vercel.app/api?username=marshmary&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
+<!-- GitHub Streak temporarily disabled - service is down. Uncomment when service recovers:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marshmary&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
+-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshmary&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Languages](https://github-readme-stats-phi-nine.vercel.app/api/top-langs/?username=marshmary&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marshmary&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae)
 
@@ -109,7 +111,7 @@ A passionate **DevOps Engineer** at [PTN Global](https://www.ptnglobalcorp.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.phutran.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phu-tran-thien/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mili2603)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phutt2201@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@phutran.dev)
 
 </div>
 
